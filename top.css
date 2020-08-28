@@ -33,6 +33,10 @@ ul.header-list li {
 display: inline;
 }
 
+.main p{
+  font-size : 20px;
+}
+
 .main img{
   margin-left: auto;
   margin-right: auto;
